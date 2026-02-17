@@ -1,6 +1,10 @@
 # Case Simulation (LCZ-based SEB + LST) — Code & Results
+Repository: https://github.com/TracyYangLiang/LCZ-based-SEB-Simulation
 
 This repository provides a **case-study simulation workflow** that uses an **LCZ-based Surface Energy Balance (SEB) model** driven by **meteorological forcing inputs** to compute **land surface temperature (LST)** fields. The code generates **hourly LST outputs (08:00–24:00)** and saves the corresponding figures/results for analysis.
+
+How to run: 
+open Run_this_code.m and execute in MATLAB.
 
 ## Study Area (Paris)
 
